@@ -8,6 +8,10 @@ body {
     padding-top: 25px;
 }
 
+p {
+    color: #5e5e5e;
+}
+
 .home-card-container {
     display: box;
     background-color: cyan;
