@@ -14,7 +14,6 @@ p {
 
 .home-card-container {
     display: box;
-    background-color: cyan;
     width: 75vw;
     position: fixed;
     left: 20px;
