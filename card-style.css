@@ -1,0 +1,17 @@
+.card1 {
+    position: absolute;
+    background-color: #D7C9DB;
+    top: 0;
+}
+
+.card2 {
+    position: absolute;
+    top: 10vh;
+    background-color: #BAA7BF;
+}
+
+.card3 {
+    position: absolute;
+    top: 20vh;
+    background-color: #86728B;
+}
